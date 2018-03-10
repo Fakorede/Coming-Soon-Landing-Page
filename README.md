@@ -10,8 +10,8 @@
 <p><strong>*No Frameworks</strong></p>
 
 <h3>Get Started</h3>
-Just clone or download and run in your browser.
-<br>
+<p>Just clone or download and run in your browser.</p>
+
 <pre>This is what it looks like on PC</pre>
 ![alt text](screenshots/desktop-view.png)
 
