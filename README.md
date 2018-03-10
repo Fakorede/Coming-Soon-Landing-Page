@@ -11,3 +11,9 @@
 
 <h3>Get Started</h3>
 Just clone or download and run in your browser.
+
+<pre>This is what it looks like on PC</pre>
+![alt text](screenshots/desktop-view.png)
+
+<pre>This is what it looks like on Mobile</pre>
+![alt text](screenshots/mobile-view.png)
