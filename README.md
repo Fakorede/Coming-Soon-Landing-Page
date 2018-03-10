@@ -11,7 +11,7 @@
 
 <h3>Get Started</h3>
 Just clone or download and run in your browser.
-
+<br>
 <pre>This is what it looks like on PC</pre>
 ![alt text](screenshots/desktop-view.png)
 
